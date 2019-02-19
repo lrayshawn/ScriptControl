@@ -1,11 +1,11 @@
-# SimpleControl
+# SimpleControls
 
 An easy way to control script functionality.
 
-SimpleControl is a pip package that contains a the package 'powerful', which actually has two modules: 
+SimpleControls is a pip package that contains a the package 'powerful', which actually has two modules: 
 'simplify.py' and 'control.py'.
 
-The "SimpleControl": 'powerful' package is easy to use and provides several ways of accessing and manipulating data.
+The 'SimpleControls.powerful' package is easy to use and provides several ways of accessing and manipulating data.
 
 The 'control.py' module contains classes, functions and methods specifically for *calling* and accessing other functions /methods.
 While the 'simplify.py' module contains classes, functions and methods for creating, accessing and manipulating objects, types and other data.
